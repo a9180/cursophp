@@ -9,8 +9,17 @@
     <?php 
         $nome = "André";
         $sobrenome = "Venâncio dos Santos";
-
-        echo "Muito prazer, $nome $sobrenome!";
+        const PAÍS = "Brasíl";
+        //
+        //
+        //
+       //$nome = "Rafael";
+        #PAIS = "EUA";
+        //$sobrenome = "Silva";
+        //
+        //
+        //
+        echo "Muito prazer, $nome $sobrenome! Você mora no " . PAÍS;
     ?>
-</body>
+</body> 
 </html>
