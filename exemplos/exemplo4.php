@@ -15,9 +15,18 @@
         //const ESTADO = "MT";
         //echo "Moro no " . ESTADO;
 
-        const CANAL = "Curso em Video \u{1F499}";
-        echo "Eu adoro esse " .CANAL;
-        echo "Estamos no ano de " . date('Y');
+        //const CANAL = "Curso em Video \u{1F499}";
+        //echo "Eu adoro esse " .CANAL;
+        //echo "Estamos no ano de " . date('Y');
+
+        //$nom = "Rodrigo";
+        //$snom = "Nogueira";
+        //echo "$nom \"Minotauro\"  $snom";  
+
+        $nome = "André";
+        $sobrenome = "Venâncio dos Santos";
+        $apelido = "Gafanhoto";
+        echo "$nome \"$apelido\" $sobrenome"; 
     ?>
 </body>
 </html>
