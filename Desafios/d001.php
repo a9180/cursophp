@@ -12,7 +12,7 @@
     </header>
     <section>
         <?php 
-            $numero = 1000;
+            $numero = 10000;
             $antecessor = $numero - 1;
             $sucessor = $numero + 1;
             echo ("O antecessor e o sucessor de $numero é $antecessor e $sucessor.");
