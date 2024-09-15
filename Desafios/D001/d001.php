@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="D001/style.css">
+    <link rel="stylesheet" href="style.css">
     <title>Antcessor e Sucessor</title>
 </head>
 <body>
