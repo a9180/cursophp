@@ -8,11 +8,11 @@
 </head>
 <body>
     <header>
-        <h1></h1>
+        <h1>Resultado final</h1>
     </header>
     <section>
         <?php 
-            $numero = 10000;
+            $numero = $_REQUEST["número"] ?? 0;
             $antecessor = $numero - 1;
             $sucessor = $numero + 1;
             echo ("O antecessor e o sucessor de $numero é $antecessor e $sucessor.");
